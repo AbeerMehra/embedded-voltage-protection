@@ -50,3 +50,11 @@ These threshold values are defined in the source code and can be adjusted as req
 - Improve ADC accuracy through calibration and filtering
 - Implement fault logging
 - Port the design to a 32-bit microcontroller (STM32/ESP32)
+
+- ## Circuit Diagram
+
+The following schematic shows the voltage sensing, Arduino interfacing,
+and relay-based load protection used in this project.
+
+![Circuit Diagram](docs/circuit_diagram.png)
+
