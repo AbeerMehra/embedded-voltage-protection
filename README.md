@@ -56,5 +56,5 @@ These threshold values are defined in the source code and can be adjusted as req
 The following schematic shows the voltage sensing, Arduino interfacing,
 and relay-based load protection used in this project.
 
-![Circuit Diagram](docs/circuit_diagram.png)
+![Circuit Diagram](docs/Arduino_circuit.png)
 
